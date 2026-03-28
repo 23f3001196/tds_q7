@@ -1,0 +1,8 @@
+{
+    "prompt": "Copperplate engraving of gradient descent optimization on topographic loss surface, 19th-century geological survey: V-shaped burin lines create contour map of parabolic valley (10m intervals), stipple cross-hatching shades northern slopes, steel-ball descends numbered path (1→10) with gradient arrow tails, copperplate serif labels \"Gradient: ∂L/∂w = -0.23\" \"Iteration VII\", brass scale bar (1:5000), orthographic projection on laid paper, iron-gall ink palette (sepia, bistre, sanguine, Payne's gray), plate mark edges visible, no cast shadows\n\nNegative Prompt: organic curves, watercolor washes, vibrant pigment, glow, motion blur, decorative flourishes, asymmetry, modern typography, filled areas, halftone dots",
+    "model": "Ideogram 2",
+    "concept": "gradient descent",
+    "tradition_name": "19th-century scientific copperplate engraving",
+    "tradition_period": "1830s–1880s",
+    "tradition_approach": "V-shaped burin contour lines, stipple cross-hatching, iron-gall ink palette, copperplate serifs—to render loss topography as geological survey plate."
+}
